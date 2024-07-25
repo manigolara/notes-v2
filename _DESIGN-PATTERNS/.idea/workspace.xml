@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68a67e93-c8d8-4a8a-b4b4-cfb74eefaa23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/01. Primitive data types.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/02. Classes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/03. String.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/04. Operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/05. Control Flow Statement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/06. Packages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/07. Inheritance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/08. Interfaces.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/09. Array.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/10. Input-Output.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/11. Exception.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/12. java.lang.Object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section10_Inheritance+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section11_Interfaces+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section12_Arrays+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section13_Accept+input+using+BufferedReader+and+Scanner.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section14_Exception+handling+using+try,+catch+and+finally.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section15_Unmasking+Java's+Superclass(java.lang.Object)+Secrets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section2_Primitive+data+types+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section3_What+happens+behind+the+scenes+when+a+Java+program+executes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section4_Deep+dive+on+Java+classes,+methods,+fields,+constructors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section5_Comments+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section6_Deep+dive+on+String+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section7_Operators+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section8_Control+flow+statements+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/pdf/Section9_packages+in+Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~to-review/JAVA/JAVA-CORE/Java Bootcamp (Eazy Bytes) [udemy]/source.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jgZEwpvupPHPR84CTOuZ9E83cp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68a67e93-c8d8-4a8a-b4b4-cfb74eefaa23" name="Changes" comment="" />
+      <created>1721810574999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721810574999</updated>
+    </task>
+    <servers />
+  </component>
+</project>
